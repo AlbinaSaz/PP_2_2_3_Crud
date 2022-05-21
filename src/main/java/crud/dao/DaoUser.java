@@ -12,30 +12,5 @@
 //public class DaoUser implements DaoInterfaceUser{
 //
 //    @Autowired
-//   private EntityManager entityManager;
 //
-//
-//    public void save (User user){
-//        entityManager.persist(user);
-//    }
-//
-//    @Override
-//    public void updateUser(User user) {
-//
-//    }
-//
-//    @Override
-//    public void deleteUser(int id) {
-//
-//    }
-//
-//    @Override
-//    public User findUser(int id) {
-//        return null;
-//    }
-//
-//    @Override
-//    public List<User> allUsers() {
-//        return null;
-//    }
 //}

@@ -9,28 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57376941-4d41-432a-a4c1-95258d415d4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crud/Service/ServiceInterfaceUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crud/Service/ServiceUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crud/config/AppInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crud/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crud/controller/ControllerUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crud/dao/DaoInterfaceUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crud/dao/DaoUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crud/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/crud/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/findUser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/users.html" afterDir="false" />
+    <list default="true" id="57376941-4d41-432a-a4c1-95258d415d4a" name="Changes" comment="2_2_3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/dao/DaoInterfaceUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/dao/DaoInterfaceUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/dao/DaoUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/dao/DaoUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/users.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,8 +177,16 @@
       <workItem from="1652886018514" duration="22287000" />
       <workItem from="1652968111045" duration="976000" />
       <workItem from="1652979893032" duration="20419000" />
-      <workItem from="1653065825443" duration="13838000" />
+      <workItem from="1653065825443" duration="17642000" />
     </task>
+    <task id="LOCAL-00001" summary="2_2_3">
+      <created>1653151329458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653151329458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +202,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2_2_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="2_2_3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -8,7 +8,7 @@
 //
 //    public void save (User user);
 //    public void updateUser(User user);
-//    public void deleteUser(int id);
+//    public void deleteUser(User user);
 //    public User findUser (int id);
 //    public List<User> allUsers ();
 //
