@@ -1,6 +1,7 @@
 package crud.controller;
 
 import crud.Service.ServiceUser;
+import crud.dao.DaoUser;
 import crud.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

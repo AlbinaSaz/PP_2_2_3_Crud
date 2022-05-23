@@ -10,10 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57376941-4d41-432a-a4c1-95258d415d4a" name="Changes" comment="2_2_3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/crud/Service/ServiceInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/Service/ServiceInterfaceUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/Service/ServiceUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/Service/ServiceUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/controller/ControllerUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/controller/ControllerUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/crud/dao/DaoInterfaceUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/dao/DaoInterfaceUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/crud/dao/DaoUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/dao/DaoUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/repository/UserRepository.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
         <option value="Interface" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -71,6 +76,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\albin\IdeaProjects\2_2_3_Crud\src\main\webapp\WEB-INF" />
       <recent name="C:\Users\albin\IdeaProjects\2_2_3_Crud\src\main\webapp\WEB-INF\users" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="crud.Service" />
     </key>
     <key name="ImportMappingsDialog.RecentPackages">
       <recent name="" />
@@ -177,7 +185,7 @@
       <workItem from="1652886018514" duration="22287000" />
       <workItem from="1652968111045" duration="976000" />
       <workItem from="1652979893032" duration="20419000" />
-      <workItem from="1653065825443" duration="17642000" />
+      <workItem from="1653065825443" duration="22330000" />
     </task>
     <task id="LOCAL-00001" summary="2_2_3">
       <created>1653151329458</created>
@@ -186,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653151329458</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2_2_3">
+      <created>1653157574612</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653157574612</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
